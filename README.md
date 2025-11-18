@@ -54,4 +54,10 @@ Build a SQL Server–based warehouse to consolidate ERP and CRM data into an org
 - Clean, standardize, and unify data  
 - Build a consolidated data model  
 - Work with the latest datasets only (no historization)  
-- Provide clear documentation of the architecture and schema  
+- Provide clear documentation of the architecture and schema
+
+---
+
+## 🌟 About Me
+
+Hi there! I'm Bhargav. I'm an IT professional and a Data Engineering enthusiast, aspiring to work in a challenging environment.I’m passionate about data, problem-solving, and building efficient solutions.
