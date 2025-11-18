@@ -1,3 +1,11 @@
+/*
+Stored procedure to load data into silver layer
+
+PURPOSE:
+Loads data into bronze schema from bronze.
+Data is cleaned, standardised and transformed.
+*/
+
 CREATE OR ALTER PROCEDURE silver.load_silver AS
 BEGIN
 	DECLARE @start_time DATETIME, @end_time DATETIME, @batch_start DATETIME, @batch_end DATETIME;
