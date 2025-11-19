@@ -60,4 +60,4 @@ Build a SQL Server–based warehouse to consolidate ERP and CRM data into an org
 
 ## 🌟 About Me
 
-Hi there! I'm Bhargav. I'm an IT professional and a Data Engineering enthusiast, aspiring to work in a challenging environment.I’m passionate about data, problem-solving, and building efficient solutions.
+Hi there! I'm Bhargav. I'm an IT professional and a Data Engineering enthusiast, aspiring to work in a challenging environment. I’m passionate about data, problem-solving, and building efficient solutions.
